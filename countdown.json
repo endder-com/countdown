@@ -1,0 +1,5 @@
+{
+    "title": "Countdown Timer",
+    "countdownDate": "2022-01-01",
+    "intervalInSec": 1000
+}
